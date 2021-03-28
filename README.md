@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Superomarking
-- 👀 I’m interested in PMMP Coding
-- 🌱 I’m currently learning JS/HTML
-- 💞️ I’m looking to collaborate on many mcpe/mcbe servers
-- 📫 How to reach me: dm me on discord Superomarking#0162
+alright idk why this is a thing but here are stats
+https://github-readme-stats.vercel.app/api?username=Superomarking
 
-<!---
-Superomarking/Superomarking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+i guess uh im dev pocketmine learning spigot uh my name isnt Supero mark ing its Super omar king i guess nothing else to say i guess i work in @StardomNetwork and @HyperiumBw-Development-Team
