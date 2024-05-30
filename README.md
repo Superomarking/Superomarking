@@ -3,4 +3,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/688737378600222757?idleMessage=Quran%202:44&hideTimestamp=true)](https://discord.com/users/688737378600222757)
 
-![](https://komarev.com/ghpvc/?username=deplantis&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=Superomarking&color=00F7FF)
